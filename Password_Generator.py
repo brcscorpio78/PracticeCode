@@ -1,7 +1,6 @@
 import random
 import string
 
-
 # Function to generate a random character
 def random_char():
     return random.choice(string.ascii_letters)
